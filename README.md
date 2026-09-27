@@ -1,4 +1,4 @@
-# AI-Lab
+# Atsuma-Lab
 
 Developer : Ateng Sulaeman
 
